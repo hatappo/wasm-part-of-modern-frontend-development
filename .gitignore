@@ -1,2 +1,10 @@
 # Mac
 .DS_Store
+
+# wasm
+*.wasm
+*.wasm.map
+
+# ?
+/echo.d.ts
+/echo.js

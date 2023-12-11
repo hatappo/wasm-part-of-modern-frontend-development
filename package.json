@@ -1,5 +1,5 @@
 {
-  "name": "as-book-getting-started",
+  "name": "wasm-part-of-modern-frontend-development",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "as-wasi": "^0.6.0",
     "assemblyscript": "^0.27.22"
   },
   "type": "module",
